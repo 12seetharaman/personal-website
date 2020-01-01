@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "José Coelho",
-    "label": "DevOps Engineer",
+    "name": "Ram @ Seetharaman",
+    "label": "AI Engineer",
     "picture": "images/jcoelho.jpg",
     "x_title": "Hey There! Glad you're here",
-    "summary": "Going on 4 years of experience in IT. Currently I’m working as a developer exploring the DevOps world. I’m interested in service management, all sorts of automation and developing front-end and back-end applications.",
+    "summary": "Going on 4 years of experience in IT. Currently I’m working as a developer exploring the AI world.",
     "location": {
-      "country": "Hungary",
-      "countryCode": "HU",
-      "region": "Budapest"
+      "country": "India",
+      "countryCode": "IN",
+      "region": "Chennai"
     },
     "profiles": [
       {
