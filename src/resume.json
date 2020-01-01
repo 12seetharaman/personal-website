@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Ram @ Seetharaman",
-    "label": "AI Engineer",
+    "label": "ML Engineer",
     "picture": "images/jcoelho.jpg",
     "x_title": "Hey There! Glad you're here",
-    "summary": "Going on 4 years of experience in IT. Currently I’m working as a developer exploring the AI world.",
+    "summary": "Going on 4+ years of experience in Programming. Currently I’m working as a developer exploring the AI world.",
     "location": {
       "country": "India",
       "countryCode": "IN",
@@ -13,20 +13,20 @@
     "profiles": [
       {
         "network": "DEV Community",
-        "username": "jcoelho",
+        "username": "seetharaman",
         "url": "https://dev.to/jcoelho",
         "x_icon":"fab fa-2x fa-dev"
       },
       {
         "network": "LinkedIn",
-        "username": "josecoelho93",
-        "url": "https://www.linkedin.com/in/josecoelho93",
+        "username": "seetharaman-dev",
+        "url": "https://www.linkedin.com/in/seetharaman-dev",
         "x_icon": "fab fa-2x fa-linkedin"
       },
       {
         "network": "GitHub",
-        "username": "jcoelho93",
-        "url": "https://github.com/jcoelho93",
+        "username": "seetharaman22",
+        "url": "https://github.com/seetharaman22",
         "x_icon": "fab fa-2x fa-github"
       }
     ]
@@ -80,15 +80,15 @@
   ],
   "education": [
     {
-      "institution": "University of Madeira",
+      "institution": "Pondicherry University",
       "area": "Computer Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2011-09-15",
-      "endDate": "2019-06-07",
+      "studyType": "Bachelor in Computer Application",
+      "startDate": "2012",
+      "endDate": "2015",
       "courses": [
+        "Programming and Algorithm",
         "Object Oriented Programming",
         "Database Management Systems",
-        "Operating systems and computers architectures",
         "Requirements Engineering"
       ]
     }
