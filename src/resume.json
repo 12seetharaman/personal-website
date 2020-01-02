@@ -14,7 +14,7 @@
       {
         "network": "DEV Community",
         "username": "seetharaman",
-        "url": "https://dev.to/jcoelho",
+        "url": "https://dev.to/12seetharaman",
         "x_icon":"fab fa-2x fa-dev"
       },
       {
@@ -33,48 +33,30 @@
   },
   "work": [
     {
-      "company": "Bosch",
-      "position": "DevOps Engineer for automated driving",
-      "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
+      "company": "Botminds.ai",
+      "position": "AI Engineer",
+      "website": "https://www.botminds.ai",
+      "startDate": "2019-09-04",
       "endDate": "",
-      "summary": "Joined the Athena project, a Bosch & Daimler effort to bring a level 4 autonomous car to the streets.",
+      "summary": "Helping machines to read and understands the documents.",
       "highlights": []
     },
     {
-      "company": "Asseco PST",
-      "position": "DevOps Engineer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2018-04-01",
-      "endDate": "2019-08-30",
-      "summary": "Joined Asseco PST DevOps team to help them deliver happiness to their customers",
+      "company": "HCL Technologies",
+      "position": "Lead Engineer",
+      "website": "https://www.hcl.com",
+      "startDate": "2018-08-29",
+      "endDate": "2019-08-29",
+      "summary": "",
       "highlights": []
     },
     {
-      "company": "Asseco PST",
-      "position": "Backend Developer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2017-08-16",
-      "endDate": "",
-      "summary": "Started my first professional developer experience as a Backend Developer for Asseco PST",
-      "highlights": []
-    },
-    {
-      "company": "European GNSS Agency",
-      "position": "IT Support Technician",
-      "website": "https://www.gsa.europea.eu",
-      "startDate": "2016-05-01",
-      "endDate": "",
-      "summary": "Moved to Prague, Czech Republic to intern for the European Commission helping them build one of the biggest european projects, Galileo Satellite System",
-      "highlights": []
-    },
-    {
-      "company": "Empresa de Electricidade da Madeira",
-      "position": "IT Support Technician",
-      "website": "https://www.eem.pt",
-      "startDate": "2015-03-01",
-      "endDate": "",
-      "summary": "My first real work experience. Interning as an IT Support Technician I was able to learn and explore way more than the workings of a big IT Infrastructure. I got to work with PowerShell scripting, PHP and email marketing.",
+      "company": "Hexaware Technologes",
+      "position": "Software Engineer",
+      "website": "https://www.hexaware.com",
+      "startDate": "2015-06-23",
+      "endDate": "2018-08-19",
+      "summary": "Started my first professional developer experience as a Software Engineer",
       "highlights": []
     }
   ],
@@ -95,19 +77,19 @@
   ],
   "skills": [
     {
-      "name": "Jenkins",
-      "level": 90,
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Continuous Integration",
+      "name": "Python",
       "level": 80,
-      "keywords": ["DevOps"]
+      "keywords": ["Programming"]
     },
     {
-      "name": "Scripting",
-      "level": 95,
-      "keywords": ["DevOps"]
+      "name": "C++",
+      "level": 65,
+      "keywords": ["Programming"]
+    },
+    {
+      "name": "Go",
+      "level": 45,
+      "keywords": ["Programming"]
     },
     {
       "name": "Containers",
@@ -135,33 +117,8 @@
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Design Patterns",
-      "level": 70,
-      "keywords": ["Software Developer"]
-    },
-    {
       "name": "Git",
-      "level": 75,
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "REST API",
-      "level": 85,
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "Unit Testing",
-      "level": 80,
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "MySQL",
-      "level": 60,
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "MongoDB",
-      "level": 60,
+      "level": 55,
       "keywords": ["Software Developer"]
     }
   ],
@@ -171,22 +128,18 @@
       "fluency": "Fluent speaker"
     },
     {
-      "language": "Portuguese",
+      "language": "Tamil",
       "fluency": "Native speaker"
     }
   ],
   "interests": [
     {
-      "name": "Travel bug",
+      "name": "Techie",
       "x_icon": "fa-globe-africa"
     },
     {
-      "name": "Dog lover",
-      "x_icon": "fa-dog"
-    },
-    {
-      "name": "Foodie",
-      "x_icon": "fa-utensils"
+      "name": "Travel bug",
+      "x_icon": "fa-globe-africa"
     },
     {
       "name": "Live in the now",
